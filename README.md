@@ -23,8 +23,8 @@ Before (left) vs After (right):
 ![Final Output](output_final.png)
 
 ## Author
-[Your Name]  
-[Your Registration ID]  
+Muhammad Awais Azeem 
+23556 
 Course: Digital Image Processing  
 Instructor: Ghulam Ali
 
